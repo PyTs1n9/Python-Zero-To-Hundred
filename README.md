@@ -1,5 +1,7 @@
 # Python 二级编程训练题库
 
+From getting started to the graveyard,It is kidding, please don't go to the graveyard!
+
 本项目包含 **100 道 Python 编程题**，题号从 `001` 到 `100`，面向已经掌握 Python 基础语法，但对全国计算机等级考试二级 Python 的常用库、文件操作和综合应用题还不熟悉的学习者。
 
 题目采用类似 LeetCode 的描述方式，每题包含题目要求、输入输出示例和提示。题库不追求偏难、偏怪的算法，而是训练二级考试最需要的能力：**读懂要求、拆分步骤、正确编码、处理边界、按格式输出**。
@@ -74,7 +76,7 @@ Python Zero To Win/
 文件处理必须形成固定习惯：
 
 ```python
-with open(path, "r", encoding="utf-8") as file:
+with open("path", "r", encoding="utf-8") as file:
     data = file.read()
 ```
 
