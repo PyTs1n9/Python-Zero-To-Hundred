@@ -1,0 +1,20 @@
+﻿行数：150
+列数：7
+
+字段名（数据类型）：
+student_id（object）
+gender（object）
+math_score（float64）
+python_score（float64）
+ai_score（float64）
+attendance_rate（float64）
+final_level（object）
+
+缺失值数量：
+student_id         0
+gender             2
+math_score         3
+python_score       2
+ai_score           3
+attendance_rate    2
+final_level        2
