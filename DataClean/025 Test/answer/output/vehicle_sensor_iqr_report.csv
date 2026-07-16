@@ -1,0 +1,7 @@
+﻿metric,value
+原始数据行数,250
+检测字段数量,3
+最终异常行总数,28
+engine_temp异常值数量,10
+rpm异常值数量,8
+fuel_pressure异常值数量,10

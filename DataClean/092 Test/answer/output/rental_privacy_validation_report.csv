@@ -1,0 +1,5 @@
+﻿method,row_count,numeric_fields_unchanged,max_abs_mean_difference,max_abs_std_difference,max_abs_pearson_difference,conclusion
+partial_mask,360,True,0.0,0.0,0.0,通过
+full_mask,360,True,0.0,0.0,0.0,通过
+sha256,360,True,0.0,0.0,0.0,通过
+md5,360,True,0.0,0.0,0.0,通过

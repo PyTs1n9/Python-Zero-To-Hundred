@@ -1,0 +1,6 @@
+﻿metric,value
+原始数据行数,210
+检测字段数量,2
+最终异常行总数,19
+latency_ms异常值数量,10
+packet_loss异常值数量,9

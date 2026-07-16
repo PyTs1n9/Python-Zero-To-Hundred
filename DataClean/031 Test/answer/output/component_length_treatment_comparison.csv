@@ -1,0 +1,5 @@
+﻿method,row_count,changed_value_count,retention_rate
+原始数据,220,0,1.0
+删除法,213,7,0.9681818181818181
+截断法,220,7,1.0
+中位数替换法,220,7,1.0

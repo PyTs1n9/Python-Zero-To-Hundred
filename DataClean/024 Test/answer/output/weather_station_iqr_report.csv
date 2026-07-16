@@ -1,0 +1,7 @@
+﻿metric,value
+原始数据行数,230
+检测字段数量,3
+最终异常行总数,17
+temperature异常值数量,5
+humidity异常值数量,7
+wind_speed异常值数量,5

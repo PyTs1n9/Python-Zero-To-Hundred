@@ -1,0 +1,7 @@
+﻿metric,value
+原始数据行数,270
+检测字段数量,3
+最终异常行总数,23
+cpu_usage异常值数量,7
+memory_usage异常值数量,8
+response_ms异常值数量,10

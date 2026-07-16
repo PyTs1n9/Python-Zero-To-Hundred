@@ -1,0 +1,4 @@
+﻿field,duplicate_group_count,sha256_consistent,md5_consistent,sha256_length_is_64,md5_length_is_32
+name,12,True,True,True,True
+phone,1,True,True,True,True
+id_card,1,True,True,True,True

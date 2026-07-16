@@ -1,0 +1,8 @@
+﻿metric,value
+原始数据行数,320
+检测字段数量,4
+最终异常行总数,27
+temperature异常值数量,9
+pressure异常值数量,5
+vibration异常值数量,8
+current异常值数量,6
