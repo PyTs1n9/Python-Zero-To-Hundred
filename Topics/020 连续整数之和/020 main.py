@@ -16,3 +16,4 @@
 
 if __name__ == "__main__":
     # print(consecutive_sum_solutions(15))
+	...
