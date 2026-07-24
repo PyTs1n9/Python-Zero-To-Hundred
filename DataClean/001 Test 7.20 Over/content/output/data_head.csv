@@ -1,0 +1,6 @@
+﻿student_id,gender,math_score,python_score,ai_score,attendance_rate,final_level
+S0001,,66.0,76.0,54.0,0.89,C
+S0002,男,62.0,,91.0,0.9,C
+S0003,男,58.0,62.0,78.0,0.96,C
+S0004,女,68.0,80.0,65.0,0.8,C
+S0005,男,65.0,92.0,71.0,0.89,B
